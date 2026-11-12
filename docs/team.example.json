@@ -1,0 +1,21 @@
+{
+  "team_name": "Team Sangam",
+  "members": [
+    {
+      "name": "Yash Goyal",
+      "role": "Team lead",
+      "email": "(fill in docs/team.json)",
+      "institution": "Indian Institute of Technology Gandhinagar",
+      "programme": "B.Tech. Computer Science and Engineering (pre-final year)",
+      "contribution": "Conceived the approach; designed and implemented the federated learning engine, the segment-level trust aggregator and the fairness controller (extending his DCA-FW fairness research); ran the benchmark experiments; wrote the technical report."
+    },
+    {
+      "name": "Kshitish Kiran Madbhavi",
+      "role": "Co-developer",
+      "email": "(fill in docs/team.json)",
+      "institution": "TO_FILL",
+      "programme": "TO_FILL",
+      "contribution": "Built the interactive consortium simulator and project website; designed the attack scenarios and evaluation dashboard; prepared the GIFT City deployment and pilot plan and the pitch deck."
+    }
+  ]
+}

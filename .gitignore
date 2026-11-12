@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+results/models/
+results/*.log
+docs/*.html
+docs/sim.png
+.DS_Store
+# personal / application-only files (kept local, not published)
+FORM_ANSWERS.md
+SUBMISSION_GUIDE.md
+VIDEO_SCRIPT.md
+docs/team.json
+docs/Sangam_Team_Details.pdf
